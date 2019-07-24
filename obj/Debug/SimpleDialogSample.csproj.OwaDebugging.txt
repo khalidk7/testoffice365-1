@@ -1,0 +1,7 @@
+False
+64be29c9-ba45-418d-ae21-d7dd6e3f1a42402cb6c0-f077-41c4-aab4-19757e9ab007
+{c493475e-6a5f-40fd-8929-789e4ba88fbe}{d23de539-3c14-4a2f-9276-81a7bf8bb6b9}
+{46b75461-94d5-4593-a816-2b76af73cf82}
+1.0.0.0
+SimpleDialogSample
+_layouts/15/

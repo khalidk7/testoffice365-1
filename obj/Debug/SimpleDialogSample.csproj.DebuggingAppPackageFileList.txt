@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\SimpleDialogSampleManifest.xml
+C:\projects\Office365AP\Office-Add-in-Dialog-API-Simple-Example2\SimpleDialogSample\bin\Debug\SimpleDialogSample.debugapp
